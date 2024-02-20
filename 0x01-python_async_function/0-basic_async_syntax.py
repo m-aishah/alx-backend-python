@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 '''Contains coroutine that waits for a random number of seconds.'''
 
 import random
