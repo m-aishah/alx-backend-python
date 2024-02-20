@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 '''Contains async_generator coroutine.'''
 import asyncio
 import random
